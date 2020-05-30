@@ -1,0 +1,7 @@
+---
+applications:
+  - name : spring-boot-feign-pcf
+    path : target/FeignSpringBoot.jar
+    domain : cfapps.io
+    memory : 1024m
+    instance : 1

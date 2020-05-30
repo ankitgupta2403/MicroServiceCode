@@ -1,0 +1,6 @@
+2020-05-23 22:09:46 [main] INFO  c.e.m.Microservice1Application -
+                No active profile set, falling back to default profiles: default
+2020-05-23 22:09:49 [main] INFO  c.e.m.Microservice1Application -
+                Started Microservice1Application in 23.372 seconds (JVM running for 24.207)
+2020-05-23 22:10:53 [http-nio-7072-exec-2] DEBUG c.e.m.component.FinacleAPI -
+                Inside Single API Class Employee{employeeName='Ankit', employeeAge=20}
